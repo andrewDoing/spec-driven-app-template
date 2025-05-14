@@ -19,9 +19,18 @@ See it in action here: https://www.youtube.com/live/Pv5DU1nwp6U?si=Zqt2LNjxGxU8M
 
 **NOTE: These are my opinions, not objective truths. Experiment on your own and develop your own opinions. Expect that these will change over time. If a model is unlisted, I haven't used it yet.**
 
-- **GPT-4.1**: Fastest option. Good for documentation and debugging.
-- **Claude 3.7 Sonnet**: A bit slower, writes good UI designs. Good general use model.
-- **Gemini 2.5 Pro**: Also a bit slower, not as good at UI (probably would be better with better prompting). Good general use model.
+- **GPT-4.1**
+  - Fastest option
+  - Good for documentation and debugging
+  - 1 million token context window
+- **Claude 3.7 Sonnet**
+  - A bit slower, writes good UI designs
+  - Good general use for agent
+  - 200k token context window
+- **Gemini 2.5 Pro**
+  - Also a bit slower, not as good at UI (probably would be better with better prompting)
+  - Good general use for agent
+  - 1 million token context window (2 million in the future)
 
 ## Contributing
 
